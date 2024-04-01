@@ -17,8 +17,10 @@ The Indian Food Classification project aims to leverage deep learning techniques
 
 ## Objectives:
 
-Develop a CNN-based model capable of accurately classifying various Indian dishes from images."\n"
-Deploy the trained model in a web and mobile application for real-time predictions."\n"
+Develop a CNN-based model capable of accurately classifying various Indian dishes from images.
+
+Deploy the trained model in a web and mobile application for real-time predictions.
+
 Evaluate the model's performance using standard metrics to ensure reliable classification results.
 
 ## Conclusion:
