@@ -6,7 +6,7 @@
 ## Madras Institute of Technology
 ## TNSDC - Machine Learning to Generative AI
 
-## Project Title:Indian Food Classification Using CNN ( Deep Learning Algorithm )
+# Project Title:Indian Food Classification Using CNN ( Deep Learning Algorithm )
 
 ## Problem Statement
 Identifying and categorizing Indian dishes from images can be challenging due to the diversity and complexity of Indian cuisine. Manual classification of food items is time-consuming and prone to errors, hindering the efficiency of tasks such as menu management, food blogging, and culinary education.
