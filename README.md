@@ -1,3 +1,16 @@
+# NOTE:
+## About Dataset
+This Dataset contains different images of food in 20 different classes. Some of the classes are of Indian food. All the images are extracted from google. Images per classes are little so Data augmentation and transfer learning will be best suited here.
+
+This dataset was too big too upload (2GB) reference:https://www.kaggle.com/datasets/l33tc0d3r/indian-food-classification
+
+## About ipynb file
+I have uploaded two ipynb file because of file size limit(24 MB)
+  ---Dataset_abalysis.ipynb ( Analysis of Dataset )
+  ---Food_Classification.ipynb  ( Model Training,Test and Predictions )
+
+## If any file does not open/render ,please download the file to view it
+
 # TNSDC-Generative-AI
 
 ## Dharshan S
