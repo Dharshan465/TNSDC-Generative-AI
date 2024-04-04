@@ -41,3 +41,30 @@ Evaluate the model's performance using standard metrics to ensure reliable class
 ## Conclusion:
 
 The Indian Food Classification project demonstrates the application of deep learning techniques in automating the classification of Indian dishes from images. By providing a reliable and efficient solution for identifying Indian cuisine, this project contributes to enhancing user experience in exploring, managing, and showcasing Indian dishes in various contexts. Through continuous improvement and refinement, this project aims to further advance the capabilities of automated food classification systems, catering to the diverse needs of users interested in Indian cuisine and beyond.
+
+## Screenshots
+![image](https://github.com/Dharshan465/TNSDC-Generative-AI/assets/138643840/6e952b5e-a26c-4571-8f23-973a38490f06)
+
+<img width="524" alt="image" src="https://github.com/Dharshan465/TNSDC-Generative-AI/assets/138643840/a32a5b18-f062-46df-bf10-eb075901b269">
+
+<img width="550" alt="image" src="https://github.com/Dharshan465/TNSDC-Generative-AI/assets/138643840/b374e8ce-2735-4659-8a58-4cdb3fd17519">
+
+<img width="504" alt="image" src="https://github.com/Dharshan465/TNSDC-Generative-AI/assets/138643840/9e846e60-1214-4ed6-bb15-c6d7a1935eb8">
+
+<img width="575" alt="image" src="https://github.com/Dharshan465/TNSDC-Generative-AI/assets/138643840/e00b7070-ddee-48df-8384-402899e1482f">
+
+<img width="584" alt="image" src="https://github.com/Dharshan465/TNSDC-Generative-AI/assets/138643840/1bba71dc-9b2f-4c61-8e7a-8b77b5cb2e88">
+
+<img width="527" alt="image" src="https://github.com/Dharshan465/TNSDC-Generative-AI/assets/138643840/a384daba-c908-41ee-8b36-cfc1fd47f81f">
+
+<img width="364" alt="image" src="https://github.com/Dharshan465/TNSDC-Generative-AI/assets/138643840/fad1fa1d-da4b-4619-a6d1-b66f74c38cf8">
+
+<img width="412" alt="image" src="https://github.com/Dharshan465/TNSDC-Generative-AI/assets/138643840/bc89d04c-6c9a-4692-b267-bdb6fb16eed8">
+
+<img width="467" alt="image" src="https://github.com/Dharshan465/TNSDC-Generative-AI/assets/138643840/0adf568f-f322-4a93-bf01-ee2d4cd25646">
+
+<img width="467" alt="image" src="https://github.com/Dharshan465/TNSDC-Generative-AI/assets/138643840/c1f679e9-5807-4dd6-81f4-0fe8b76336e9">
+
+<img width="491" alt="image" src="https://github.com/Dharshan465/TNSDC-Generative-AI/assets/138643840/386ed188-f923-435b-b037-2b2e3ac67dfc">
+
+
