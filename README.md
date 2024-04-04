@@ -11,7 +11,7 @@ I have uploaded two ipynb file because of file size limit(24 MB)
   
   ---Food_Classification.ipynb  ( Model Training,Test and Predictions )
 
-## If any file does not open/render ,please download the file to view it
+## If any file does not open/render ,please wait for some time or download the file to view it (file size)
 
 # TNSDC-Generative-AI
 
